@@ -1,0 +1,14 @@
+{
+    "debug": true,
+    "port": 6001,
+    "appManager.array.apps": [
+        {
+            "id": "medicord",
+            "key": "medicord",
+            "secret": "medicord",
+            "webhooks": [
+            
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+# cmd for soketi: soketi start --config=/home/driver/Desktop/linux_dev/medicord/extra/soketi/config.json
